@@ -1,0 +1,56 @@
+body {
+    background-color: #f8f8ff; /**Default color in case browser can't load image**/
+    font-family: Tahoma, Geneva, sans-serif;
+    width: 100%;
+    background: url(Images/001.png);
+    background-size: cover;
+    position: absolute;
+
+}
+
+#container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.signin {
+    position: relative;
+    z-index: 1;
+    background: rgba(3, 3, 84, 1);
+    color: white;
+    width: 390px;
+    padding: 10% 0 0;
+    margin: auto;
+    text-align: center;
+}
+
+.login h1 {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 50px;
+    transition: ease-in-out 550ms;
+}
+
+.login-btn {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 120%;
+  color: #FFF;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid #FFF;
+  padding: 10px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: ease-in-out 550ms;
+}
+
+
+.New-account {
+    font-size: 21px;
+}
+
+.New-account p {
+    transition: ease-in-out 100ms;
+}
