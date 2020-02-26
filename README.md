@@ -36,7 +36,7 @@ HTML Login Screen
 ### Description:
 I created this project at the start of 2019. At this time, I was new to using HTML. I started creating a login screen because I had a rough understanding of how to create one and since every website utilised a login page, I thought it would be a great place to start.
 
-The simple login page was created just for design so that I could get a better understaning of HTML. This project also taught me about how to design a web page using HTML and styling it using CSS. This was also my first time using the ATOM IDE because I had used an online IDE that allowed me to create simple webpages using any web language.
+The simple login page was created just for design so that I could get a better understanding of HTML. This project also taught me about how to design a web page using HTML and styling it using CSS. This was also my first time using the ATOM IDE because I had used an online IDE that allowed me to create simple webpages using any web language.
 
 ### Prerequisites:
 - Any IDE that can edit/create HTML (Recommended ATOM)
