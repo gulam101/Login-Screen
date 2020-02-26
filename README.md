@@ -39,10 +39,12 @@ I created this project at the start of 2019. At this time, I was new to using HT
 The simple login page was created just for design so that I could get a better understanding of HTML. This project also taught me about how to design a web page using HTML and styling it using CSS. This was also my first time using the ATOM IDE because I had used an online IDE that allowed me to create simple webpages using any web language.
 
 ### Prerequisites:
-- Any IDE that can edit/create HTML (Recommended ATOM)
+- Any IDE that can edit/create HTML (Recommended Atom or Brackets)
 
 ### Getting Started:
 This section will just show the user how to donwload the tools needed to run this project.
+
+
 
 ### Instructions:
 - Step 1: Download Visual Studio (If you don't have already)
