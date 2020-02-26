@@ -52,7 +52,6 @@ HTML Login Screen
 - Understanding of how to use ATOM
 
 ### Constraints:
-
 I developed this project at the beggining of the 2019. I was new to using HTML and CSS. I solved my problems by using online guides so that I can solve my problems. I also had to get used to using Atom.
 
 ### Improvements:
