@@ -44,7 +44,7 @@ The simple login page was created just for design so that I could get a better u
 ### Getting Started:
 This section will just show the user how to donwload the tools needed to run this project.
 
-
+- Step 1: Download Atom (https://atom.io/)
 
 ### Instructions:
 - Step 1: Download Visual Studio (If you don't have already)
