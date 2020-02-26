@@ -75,7 +75,6 @@ Development changes tracks the changes that happend to the project. It orders it
 - https://www.w3schools.com/html/
 
 ### Screenshots:
-![IMG001](https://user-images.githubusercontent.com/45819118/71189266-71dec200-227a-11ea-9990-a67e220b4787.PNG)
 
 ### Credits:
 - Gulam Qasim
