@@ -34,7 +34,7 @@ HTML Login Screen
 <a name="Credits"/>
 
 ### Description:
-I created this project at the start of 2019. At this time I was new to using HTML. I started creating a login screen because I had a rough understanding of how to create one and sicne every website utilised a login page, I thought it would be a great place to start.
+I created this project at the start of 2019. At this time, I was new to using HTML. I started creating a login screen because I had a rough understanding of how to create one and since every website utilised a login page, I thought it would be a great place to start.
 
 ### Prerequisites:
 - Any IDE that can edit/create HTML (Recommended ATOM)
