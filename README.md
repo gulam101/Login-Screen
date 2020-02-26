@@ -42,7 +42,7 @@ The simple login page was created just for design so that I could get a better u
 - Any IDE that can edit/create HTML (Recommended ATOM)
 
 ### Getting Started:
-This will just show the user how to donwload the tools needed to run this project.
+This section will just show the user how to donwload the tools needed to run this project.
 
 ### Instructions:
 - Step 1: Download Visual Studio (If you don't have already)
