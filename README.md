@@ -33,7 +33,8 @@ HTML Login Screen
 [Credits](#Credits)  
 <a name="Credits"/>
 
-### Description: 
+### Description:
+I 
 
 ### Prerequisites:
 - Any IDE that can edit/create HTML (Recommended ATOM)
@@ -52,7 +53,7 @@ HTML Login Screen
 - Understanding of how to use ATOM
 
 ### Constraints:
-I developed this project at the beggining of the 2019. I was new to using HTML and CSS. I solved my problems by using online guides so that I can solve my problems. I also had to get used to using Atom.
+I developed this project at the beginning of the 2019. I was new to using HTML and CSS. I solved my problems by using online guides so that I can solve my problems. I also had to get used to using Atom.
 
 ### Improvements:
 This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
