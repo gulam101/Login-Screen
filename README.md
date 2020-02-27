@@ -68,7 +68,7 @@ This section will just show the user how to donwload the tools needed to run thi
 ### Instructions:
 - Step 1: Install the tools (If you don't have already) [Click Here](#Installing_the_Tools)  <a name="Installing_the_Tools"/>
 - Step 2: Clone this project
-- Step 3: Once downloading is finished, open it up using Visual Studio
+- Step 3: Once downloading is finished, open it up using Atom (right click on
 - Step 4: Click run at the top and the application will run
 - Step 5: Input a base radius and height
 - Step 6: Click calculate and this will then calculate the volume of the cylinder
