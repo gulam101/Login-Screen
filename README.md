@@ -91,10 +91,7 @@ Development changes tracks the changes that happend to the project. It orders it
 - https://www.lipsum.com/ (Dummy text)
 
 ### Screenshots:
-
-
 ![img001](https://user-images.githubusercontent.com/45819118/75435688-51527880-594b-11ea-8d9b-94d6e52f51d2.PNG)
-
 
 ### Credits:
 - Gulam Qasim
