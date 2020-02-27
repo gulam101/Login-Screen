@@ -39,9 +39,9 @@
 ### Description:
 I created this project at the start of 2019. At this time, I was new to using HTML. I started creating a login screen because I had a rough understanding of how to create one and since every website utilised a login page, I thought it would be a great place to start.
 
-The  login page was created just for design so that I could get a better understanding of HTML. So, if the user was to type anything in the box and tries to login in then it won't do anything. I only designed it to be a single page so that I would focus on the core login page. This project also taught me about how to design a web page using HTML and styling it using CSS. This was also my first time using the Atom IDE because I had used an online IDE that allowed me to create simple webpages using any web language.
+The login page was created just for design so that I could get a better understanding of HTML. So, if the user was to type anything in the box and tries to login in then it won't do anything. I only designed it to be a single page so that I would focus on the core login page. This project also taught me about how to design a web page using HTML and styling it using CSS. This was also my first time using the Atom IDE because I had used an online IDE that allowed me to create simple webpages using any web language.
 
-If I wanted to, in the future I could use the the code from the login page and intergrate it into a real website.
+If I wanted to, in the future I could use the code from the login page and integrate it into a real website.
 
 ### Prerequisites:
 - Any IDE that can edit/create HTML (Recommended Atom or Brackets)
