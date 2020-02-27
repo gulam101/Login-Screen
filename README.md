@@ -63,6 +63,8 @@ This section will just show the user how to donwload the tools needed to run thi
 
 ![img002](https://user-images.githubusercontent.com/45819118/75434776-f66c5180-5949-11ea-8a30-e5e17ac2b000.PNG)
 
+- Step 4: Next step is to install Google Chrome
+
 ### Instructions:
 - Step 1: Download Visual Studio (If you don't have already)
 - Step 2: Clone this project
