@@ -86,6 +86,9 @@ Development changes tracks the changes that happend to the project. It orders it
 
 ### Resources:
 - https://www.w3schools.com/html/
+- https://atom.io/ (IDE)
+- Google Images (For images)
+- https://www.lipsum.com/ (Dummy text)
 
 ### Screenshots:
 
