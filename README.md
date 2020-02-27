@@ -41,7 +41,7 @@ The simple login page was created just for design so that I could get a better u
 ### Prerequisites:
 - Any IDE that can edit/create HTML (Recommended Atom or Brackets)
 
-### Getting Started:
+### Installing the tools:
 This section will just show the user how to donwload the tools needed to run this project.
 
 - Step 1: Download Atom (https://atom.io/)
