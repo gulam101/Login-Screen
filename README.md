@@ -48,6 +48,7 @@ This section will just show the user how to donwload the tools needed to run thi
 ![img001](https://user-images.githubusercontent.com/45819118/75434774-f5d3bb00-5949-11ea-89c7-9a4b4d282386.PNG)
 
 - Step 2: Follow the installation guide
+
 ![img003](https://user-images.githubusercontent.com/45819118/75434777-f704e800-5949-11ea-84e3-4cdabd638af5.png)
 
 
