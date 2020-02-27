@@ -45,6 +45,8 @@ If I wanted to, in the future I could use the code from the login page and integ
 
 ### Prerequisites:
 - Any IDE that can edit/create HTML (Recommended Atom or Brackets)
+- Any Modern Browser (Preferably Chrome or Firefox)
+- Access to developer tools on web browser
 
 ### Installing the tools:
 This section will just show the user how to donwload the tools needed to run this project.
