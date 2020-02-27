@@ -15,7 +15,7 @@
 [Instructions](#Instructions)  
 <a name="Instructions"/>
 
-[What I learnt](#What_I_Learned)  
+[What I learned](#What_I_Learned)  
 <a name="What_I_Learned"/>
 
 [Constraints](#Constraints)  
