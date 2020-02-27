@@ -9,8 +9,8 @@
 [Prerequisites](#Prerequisites)  
 <a name="Prerequisites"/>
 
-[Installing the tools](#Installing_the_tools)  
-<a name="Installing_the_tools"/>
+[Installing the Tools](#Installing_the_Tools)  
+<a name="Installing_the_Tools"/>
 
 [Instructions](#Instructions)  
 <a name="Instructions"/>
