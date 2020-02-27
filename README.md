@@ -66,7 +66,7 @@ This section will just show the user how to donwload the tools needed to run thi
 - Step 4: Next step is to install Google Chrome
 
 ### Instructions:
-- Step 1: Download Visual Studio (If you don't have already)
+- Step 1: Install the tools (If you don't have already) [Click Here](#Installing_the_Tools)  <a name="Installing_the_Tools"/>
 - Step 2: Clone this project
 - Step 3: Once downloading is finished, open it up using Visual Studio
 - Step 4: Click run at the top and the application will run
